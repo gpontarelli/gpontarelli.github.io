@@ -1,6 +1,7 @@
 body {
   background-image: url("../../images/background3.jpeg");
 }
+
 div col-md-6 {
-background-color: white;
+  background-color: white;
 }

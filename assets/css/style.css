@@ -2,6 +2,6 @@ body {
   background-image: url("../../images/background3.jpeg");
 }
 
-.container{
+.container .navbar-default {
   background-color: white;
 }

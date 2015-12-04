@@ -1,7 +1,6 @@
 body {
   background-image: url("../../images/background3.jpeg");
 }
-
-title {
-  font: font-family: 'Pacifico', cursive;
+div col-md-6 {
+background-color: white;
 }

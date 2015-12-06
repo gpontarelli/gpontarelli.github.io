@@ -7,13 +7,13 @@ body {
   font-family: 'Lobster', cursive;
 }
 
-.top .col-md-6 {
+.top {
   background-color: white;
 font-family: 'Lobster', cursive;
 font-weight: bold;
 }
 
-.navbar .col-md-6 {
+.navbar {
   background-color: white;
   font-family: 'Lobster', cursive;
   font-weight: bold;

@@ -4,12 +4,12 @@ body {
 
 .text {
   background-color: white;
+  font-family: 'Lobster', cursive;
 }
 
 .top {
   background-color: white;
 font-family: 'Lobster', cursive;
-font-color: red;
 }
 
 .navbar {

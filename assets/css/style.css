@@ -3,9 +3,9 @@ body {
 }
 
 .text {
-  background-color: white;
+  background-color: black;
   font-family: 'Lobster', cursive;
-  color: red;
+  color: white;
 }
 
 .top {

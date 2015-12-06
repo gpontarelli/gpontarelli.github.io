@@ -7,10 +7,6 @@ body {
 }
 
 .top {
-  background-color: white;
+  background-color: gray;
 font-family: 'Pacifico', cursive;
-}
-
-.nabar {
-  background-color: white;
 }

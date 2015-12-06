@@ -8,6 +8,7 @@ body {
   background-color: white;
   font-family: 'Vollkorn', serif;
   color: gray;
+  font-weight: bold;
 }
 
 .top {
@@ -15,7 +16,6 @@ background-color: white;
 color: maroon;
 font-family: 'Lobster', cursive;
 font-weight: bold;
-font-size: 400px;
 }
 
 .navbar {
@@ -26,5 +26,5 @@ font-size: 400px;
 
 .bottom {
 font-family: 'Vollkorn', serif;
-  color: maroon;
+color: maroon;
 }

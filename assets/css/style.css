@@ -1,11 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Vollkorn);
 body {
   background-image: url("../../images/background3.jpeg");
 }
 
 .text {
   background-color: white;
-  font-family: 'Lobster', cursive;
+  font-family: 'Vollkorn', serif;
   color: gray;
 }
 
@@ -18,11 +19,11 @@ font-weight: bold;
 
 .navbar {
   background-color: white;
-  font-family: 'Lobster', cursive;
+  font-family: 'Vollkorn', serif;
   font-weight: bold;
 }
 
 .bottom {
-  font-family: 'Lobster', cursive;
+font-family: 'Vollkorn', serif;
   color: maroon;
 }

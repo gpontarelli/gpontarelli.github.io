@@ -25,4 +25,6 @@ font-weight: bold;
 
 .bottom {
   font-family: 'Lobster', cursive;
+  color: gray;
+  font-weight: bold;
 }

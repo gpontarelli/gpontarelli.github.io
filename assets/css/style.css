@@ -11,10 +11,11 @@ body {
 }
 
 .top {
-  background-color: white;
-  color: maroon;
+background-color: white;
+color: maroon;
 font-family: 'Lobster', cursive;
 font-weight: bold;
+font-size: 100px;
 }
 
 .navbar {

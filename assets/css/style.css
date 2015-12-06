@@ -5,7 +5,8 @@ body {
 .text {
   background-color: white;
   font-family: 'Lobster', cursive;
-  color: darkgray;
+  color: gray;
+  font-weight: bold;
 }
 
 .top {

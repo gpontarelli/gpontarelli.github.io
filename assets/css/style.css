@@ -9,6 +9,7 @@ body {
   font-family: 'Vollkorn', serif;
   color: gray;
   font-weight: bold;
+  padding: 50px;
 }
 
 .top {
@@ -27,8 +28,4 @@ font-weight: bold;
 .bottom {
 font-family: 'Vollkorn', serif;
 color: maroon;
-}
-
-.h1 {
-  font-size: 200px;
 }

@@ -10,6 +10,7 @@ body {
   color: gray;
   font-weight: bold;
   padding: 20px;
+  border: black;
 }
 
 .top {
@@ -31,7 +32,7 @@ color: maroon;
 font-weight: bold;
 }
 
-h1 {
+h1 {x-
 font-size: 50px;
 }
 

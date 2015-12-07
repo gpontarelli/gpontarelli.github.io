@@ -11,6 +11,7 @@ body {
   font-weight: bold;
   padding: 20px;
   border-style: solid; gray;
+  padding-bottom: 15px;
 }
 
 .top {
@@ -32,7 +33,7 @@ color: maroon;
 font-weight: bold;
 }
 
-h1 {x-
+h1 {
 font-size: 50px;
 }
 

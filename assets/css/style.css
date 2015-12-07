@@ -11,6 +11,8 @@ body {
   font-weight: bold;
   padding: 20px;
   border-style: solid; gray;
+  padding-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 .top {
